@@ -1,1 +1,1 @@
-../hello%0d%0a
+../hello HTTP/1.1\r\nSomething: 
