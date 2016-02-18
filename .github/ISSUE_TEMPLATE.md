@@ -1,1 +1,1 @@
-/.nogtgit/config
+file:///hello
