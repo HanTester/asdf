@@ -1,1 +1,1 @@
-/.github/test/a
+/hello
