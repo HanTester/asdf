@@ -1,0 +1,3 @@
+[submodule ".github/test"]
+	path = .github/test
+	url = https://github.com/hantester/test
