@@ -1,1 +1,1 @@
-../hello
+/etc/passwd
