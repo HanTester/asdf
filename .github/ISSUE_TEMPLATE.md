@@ -1,1 +1,1 @@
-ISSUE_TEMPLATE2
+../hello
