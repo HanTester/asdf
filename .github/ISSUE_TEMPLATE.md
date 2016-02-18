@@ -1,1 +1,1 @@
-/etc/passwd
+ISSUE_TEMPLATE
