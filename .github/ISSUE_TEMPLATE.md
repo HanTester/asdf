@@ -1,2 +1,1 @@
-../../../../../asdfd
-sa/../../../hello
+.git/config
